@@ -90,11 +90,8 @@ void main() {
                         ),
                       ),
                     ),
-
-
                   ],
                 ),
-
               ),
               Expanded(
                 flex: 6,
@@ -177,11 +174,8 @@ void main() {
                         ),
                       ),
                     ),
-
-
                   ],
                 ),
-
               ),
               Expanded(
                 flex: 6,
@@ -264,11 +258,8 @@ void main() {
                         ),
                       ),
                     ),
-
-
                   ],
                 ),
-
               ),
               Expanded(
                 flex: 6,
@@ -351,11 +342,8 @@ void main() {
                         ),
                       ),
                     ),
-
-
                   ],
                 ),
-
               ),
               Expanded(
                 flex: 6,
@@ -438,11 +426,8 @@ void main() {
                         ),
                       ),
                     ),
-
-
                   ],
                 ),
-
               ),
               Expanded(
                 flex: 6,
@@ -525,14 +510,9 @@ void main() {
                         ),
                       ),
                     ),
-
-
                   ],
                 ),
-
               ),
-
-
             ],
           ),
         ),

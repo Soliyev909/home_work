@@ -13,15 +13,15 @@ void main() {
                 color: Colors.indigo,
                 alignment: Alignment.center,
                 child: Container(
-                  height: 780,
-                  width: 360,
+                  // height: 780,
+                  // width: 360,
                   color: Colors.blue,
                   alignment: Alignment.topCenter,
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: [
                       Container(
-                        margin: EdgeInsets.only(top: 10),
+                        margin: const EdgeInsets.only(top: 10),
                         height: 50,
                         width: 95,
                         color: Colors.black,
